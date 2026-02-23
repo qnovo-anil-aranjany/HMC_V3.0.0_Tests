@@ -1,0 +1,962 @@
+[
+    {
+        "test_id": "tid_1\n\tchg_current = 0\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_2\n\tchg_current = 0\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_3\n\tchg_current = 0\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_4\n\tchg_current = 0\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_5\n\tchg_current = 0\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_6\n\tchg_current = 0\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_7\n\tchg_current = 0\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_8\n\tchg_current = 0\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_9\n\tchg_current = 0\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_10\n\tchg_current = 0\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_11\n\tchg_current = 0\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_12\n\tchg_current = 0\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 0
+    },
+    {
+        "test_id": "tid_13\n\tchg_current = 500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 261
+    },
+    {
+        "test_id": "tid_14\n\tchg_current = 500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 282
+    },
+    {
+        "test_id": "tid_15\n\tchg_current = 500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 309
+    },
+    {
+        "test_id": "tid_16\n\tchg_current = 500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 342
+    },
+    {
+        "test_id": "tid_17\n\tchg_current = 500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 379
+    },
+    {
+        "test_id": "tid_18\n\tchg_current = 500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 419
+    },
+    {
+        "test_id": "tid_19\n\tchg_current = 500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 460
+    },
+    {
+        "test_id": "tid_20\n\tchg_current = 500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 500
+    },
+    {
+        "test_id": "tid_21\n\tchg_current = 500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 500
+    },
+    {
+        "test_id": "tid_22\n\tchg_current = 500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 500
+    },
+    {
+        "test_id": "tid_23\n\tchg_current = 500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 500
+    },
+    {
+        "test_id": "tid_24\n\tchg_current = 500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 500
+    },
+    {
+        "test_id": "tid_25\n\tchg_current = 1000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 523
+    },
+    {
+        "test_id": "tid_26\n\tchg_current = 1000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 564
+    },
+    {
+        "test_id": "tid_27\n\tchg_current = 1000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 619
+    },
+    {
+        "test_id": "tid_28\n\tchg_current = 1000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 684
+    },
+    {
+        "test_id": "tid_29\n\tchg_current = 1000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 759
+    },
+    {
+        "test_id": "tid_30\n\tchg_current = 1000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 839
+    },
+    {
+        "test_id": "tid_31\n\tchg_current = 1000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 920
+    },
+    {
+        "test_id": "tid_32\n\tchg_current = 1000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 1000
+    },
+    {
+        "test_id": "tid_33\n\tchg_current = 1000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 1000
+    },
+    {
+        "test_id": "tid_34\n\tchg_current = 1000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 1000
+    },
+    {
+        "test_id": "tid_35\n\tchg_current = 1000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 1000
+    },
+    {
+        "test_id": "tid_36\n\tchg_current = 1000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 1000
+    },
+    {
+        "test_id": "tid_37\n\tchg_current = 1500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 785
+    },
+    {
+        "test_id": "tid_38\n\tchg_current = 1500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 846
+    },
+    {
+        "test_id": "tid_39\n\tchg_current = 1500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 928
+    },
+    {
+        "test_id": "tid_40\n\tchg_current = 1500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 1027
+    },
+    {
+        "test_id": "tid_41\n\tchg_current = 1500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 1139
+    },
+    {
+        "test_id": "tid_42\n\tchg_current = 1500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 1259
+    },
+    {
+        "test_id": "tid_43\n\tchg_current = 1500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 1381
+    },
+    {
+        "test_id": "tid_44\n\tchg_current = 1500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 1500
+    },
+    {
+        "test_id": "tid_45\n\tchg_current = 1500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 1500
+    },
+    {
+        "test_id": "tid_46\n\tchg_current = 1500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 1500
+    },
+    {
+        "test_id": "tid_47\n\tchg_current = 1500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 1500
+    },
+    {
+        "test_id": "tid_48\n\tchg_current = 1500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 1500
+    },
+    {
+        "test_id": "tid_49\n\tchg_current = 2000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 1047
+    },
+    {
+        "test_id": "tid_50\n\tchg_current = 2000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 1129
+    },
+    {
+        "test_id": "tid_51\n\tchg_current = 2000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 1238
+    },
+    {
+        "test_id": "tid_52\n\tchg_current = 2000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 1369
+    },
+    {
+        "test_id": "tid_53\n\tchg_current = 2000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 1518
+    },
+    {
+        "test_id": "tid_54\n\tchg_current = 2000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 1678
+    },
+    {
+        "test_id": "tid_55\n\tchg_current = 2000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 1841
+    },
+    {
+        "test_id": "tid_56\n\tchg_current = 2000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 2000
+    },
+    {
+        "test_id": "tid_57\n\tchg_current = 2000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 2000
+    },
+    {
+        "test_id": "tid_58\n\tchg_current = 2000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 2000
+    },
+    {
+        "test_id": "tid_59\n\tchg_current = 2000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 2000
+    },
+    {
+        "test_id": "tid_60\n\tchg_current = 2000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 2000
+    },
+    {
+        "test_id": "tid_61\n\tchg_current = 2500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 1309
+    },
+    {
+        "test_id": "tid_62\n\tchg_current = 2500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 1411
+    },
+    {
+        "test_id": "tid_63\n\tchg_current = 2500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 1547
+    },
+    {
+        "test_id": "tid_64\n\tchg_current = 2500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 1712
+    },
+    {
+        "test_id": "tid_65\n\tchg_current = 2500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 1898
+    },
+    {
+        "test_id": "tid_66\n\tchg_current = 2500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 2098
+    },
+    {
+        "test_id": "tid_67\n\tchg_current = 2500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 2302
+    },
+    {
+        "test_id": "tid_68\n\tchg_current = 2500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 2500
+    },
+    {
+        "test_id": "tid_69\n\tchg_current = 2500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 2500
+    },
+    {
+        "test_id": "tid_70\n\tchg_current = 2500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 2500
+    },
+    {
+        "test_id": "tid_71\n\tchg_current = 2500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 2500
+    },
+    {
+        "test_id": "tid_72\n\tchg_current = 2500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 2500
+    },
+    {
+        "test_id": "tid_73\n\tchg_current = 3000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 1571
+    },
+    {
+        "test_id": "tid_74\n\tchg_current = 3000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 1693
+    },
+    {
+        "test_id": "tid_75\n\tchg_current = 3000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 1857
+    },
+    {
+        "test_id": "tid_76\n\tchg_current = 3000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 2054
+    },
+    {
+        "test_id": "tid_77\n\tchg_current = 3000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 2278
+    },
+    {
+        "test_id": "tid_78\n\tchg_current = 3000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 2518
+    },
+    {
+        "test_id": "tid_79\n\tchg_current = 3000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 2762
+    },
+    {
+        "test_id": "tid_80\n\tchg_current = 3000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 3000
+    },
+    {
+        "test_id": "tid_81\n\tchg_current = 3000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 3000
+    },
+    {
+        "test_id": "tid_82\n\tchg_current = 3000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 3000
+    },
+    {
+        "test_id": "tid_83\n\tchg_current = 3000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 3000
+    },
+    {
+        "test_id": "tid_84\n\tchg_current = 3000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 3000
+    },
+    {
+        "test_id": "tid_85\n\tchg_current = 3500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 1833
+    },
+    {
+        "test_id": "tid_86\n\tchg_current = 3500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 1976
+    },
+    {
+        "test_id": "tid_87\n\tchg_current = 3500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 2166
+    },
+    {
+        "test_id": "tid_88\n\tchg_current = 3500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 2397
+    },
+    {
+        "test_id": "tid_89\n\tchg_current = 3500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 2658
+    },
+    {
+        "test_id": "tid_90\n\tchg_current = 3500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 2937
+    },
+    {
+        "test_id": "tid_91\n\tchg_current = 3500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 3222
+    },
+    {
+        "test_id": "tid_92\n\tchg_current = 3500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 3500
+    },
+    {
+        "test_id": "tid_93\n\tchg_current = 3500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 3500
+    },
+    {
+        "test_id": "tid_94\n\tchg_current = 3500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 3500
+    },
+    {
+        "test_id": "tid_95\n\tchg_current = 3500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 3500
+    },
+    {
+        "test_id": "tid_96\n\tchg_current = 3500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 3500
+    },
+    {
+        "test_id": "tid_97\n\tchg_current = 4000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 2095
+    },
+    {
+        "test_id": "tid_98\n\tchg_current = 4000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 2258
+    },
+    {
+        "test_id": "tid_99\n\tchg_current = 4000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 2476
+    },
+    {
+        "test_id": "tid_100\n\tchg_current = 4000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 2739
+    },
+    {
+        "test_id": "tid_101\n\tchg_current = 4000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 3037
+    },
+    {
+        "test_id": "tid_102\n\tchg_current = 4000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 3357
+    },
+    {
+        "test_id": "tid_103\n\tchg_current = 4000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 3683
+    },
+    {
+        "test_id": "tid_104\n\tchg_current = 4000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 4000
+    },
+    {
+        "test_id": "tid_105\n\tchg_current = 4000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 4000
+    },
+    {
+        "test_id": "tid_106\n\tchg_current = 4000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 4000
+    },
+    {
+        "test_id": "tid_107\n\tchg_current = 4000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 4000
+    },
+    {
+        "test_id": "tid_108\n\tchg_current = 4000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 4000
+    },
+    {
+        "test_id": "tid_109\n\tchg_current = 4500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 2357
+    },
+    {
+        "test_id": "tid_110\n\tchg_current = 4500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 2540
+    },
+    {
+        "test_id": "tid_111\n\tchg_current = 4500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 2785
+    },
+    {
+        "test_id": "tid_112\n\tchg_current = 4500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 3081
+    },
+    {
+        "test_id": "tid_113\n\tchg_current = 4500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 3417
+    },
+    {
+        "test_id": "tid_114\n\tchg_current = 4500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 3777
+    },
+    {
+        "test_id": "tid_115\n\tchg_current = 4500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 4143
+    },
+    {
+        "test_id": "tid_116\n\tchg_current = 4500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 4500
+    },
+    {
+        "test_id": "tid_117\n\tchg_current = 4500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 4500
+    },
+    {
+        "test_id": "tid_118\n\tchg_current = 4500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 4500
+    },
+    {
+        "test_id": "tid_119\n\tchg_current = 4500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 4500
+    },
+    {
+        "test_id": "tid_120\n\tchg_current = 4500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 4500
+    },
+    {
+        "test_id": "tid_121\n\tchg_current = 5000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 2619
+    },
+    {
+        "test_id": "tid_122\n\tchg_current = 5000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 2823
+    },
+    {
+        "test_id": "tid_123\n\tchg_current = 5000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 3095
+    },
+    {
+        "test_id": "tid_124\n\tchg_current = 5000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 3424
+    },
+    {
+        "test_id": "tid_125\n\tchg_current = 5000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 3797
+    },
+    {
+        "test_id": "tid_126\n\tchg_current = 5000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 4196
+    },
+    {
+        "test_id": "tid_127\n\tchg_current = 5000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 4604
+    },
+    {
+        "test_id": "tid_128\n\tchg_current = 5000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 5000
+    },
+    {
+        "test_id": "tid_129\n\tchg_current = 5000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 5000
+    },
+    {
+        "test_id": "tid_130\n\tchg_current = 5000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 5000
+    },
+    {
+        "test_id": "tid_131\n\tchg_current = 5000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 5000
+    },
+    {
+        "test_id": "tid_132\n\tchg_current = 5000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 5000
+    },
+    {
+        "test_id": "tid_133\n\tchg_current = 5500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 2881
+    },
+    {
+        "test_id": "tid_134\n\tchg_current = 5500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 3105
+    },
+    {
+        "test_id": "tid_135\n\tchg_current = 5500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 3404
+    },
+    {
+        "test_id": "tid_136\n\tchg_current = 5500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 3766
+    },
+    {
+        "test_id": "tid_137\n\tchg_current = 5500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 4176
+    },
+    {
+        "test_id": "tid_138\n\tchg_current = 5500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 4616
+    },
+    {
+        "test_id": "tid_139\n\tchg_current = 5500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 5064
+    },
+    {
+        "test_id": "tid_140\n\tchg_current = 5500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 5500
+    },
+    {
+        "test_id": "tid_141\n\tchg_current = 5500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 5500
+    },
+    {
+        "test_id": "tid_142\n\tchg_current = 5500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 5500
+    },
+    {
+        "test_id": "tid_143\n\tchg_current = 5500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 5500
+    },
+    {
+        "test_id": "tid_144\n\tchg_current = 5500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 5500
+    },
+    {
+        "test_id": "tid_145\n\tchg_current = 6000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 3143
+    },
+    {
+        "test_id": "tid_146\n\tchg_current = 6000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 3387
+    },
+    {
+        "test_id": "tid_147\n\tchg_current = 6000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 3714
+    },
+    {
+        "test_id": "tid_148\n\tchg_current = 6000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 4109
+    },
+    {
+        "test_id": "tid_149\n\tchg_current = 6000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 4556
+    },
+    {
+        "test_id": "tid_150\n\tchg_current = 6000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 5036
+    },
+    {
+        "test_id": "tid_151\n\tchg_current = 6000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 5525
+    },
+    {
+        "test_id": "tid_152\n\tchg_current = 6000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 6000
+    },
+    {
+        "test_id": "tid_153\n\tchg_current = 6000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 6000
+    },
+    {
+        "test_id": "tid_154\n\tchg_current = 6000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 6000
+    },
+    {
+        "test_id": "tid_155\n\tchg_current = 6000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 6000
+    },
+    {
+        "test_id": "tid_156\n\tchg_current = 6000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 6000
+    },
+    {
+        "test_id": "tid_157\n\tchg_current = 6500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 3405
+    },
+    {
+        "test_id": "tid_158\n\tchg_current = 6500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 3669
+    },
+    {
+        "test_id": "tid_159\n\tchg_current = 6500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 4023
+    },
+    {
+        "test_id": "tid_160\n\tchg_current = 6500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 4451
+    },
+    {
+        "test_id": "tid_161\n\tchg_current = 6500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 4936
+    },
+    {
+        "test_id": "tid_162\n\tchg_current = 6500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 5455
+    },
+    {
+        "test_id": "tid_163\n\tchg_current = 6500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 5985
+    },
+    {
+        "test_id": "tid_164\n\tchg_current = 6500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 6500
+    },
+    {
+        "test_id": "tid_165\n\tchg_current = 6500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 6500
+    },
+    {
+        "test_id": "tid_166\n\tchg_current = 6500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 6500
+    },
+    {
+        "test_id": "tid_167\n\tchg_current = 6500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 6500
+    },
+    {
+        "test_id": "tid_168\n\tchg_current = 6500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 6500
+    },
+    {
+        "test_id": "tid_169\n\tchg_current = 7000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 3667
+    },
+    {
+        "test_id": "tid_170\n\tchg_current = 7000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 3952
+    },
+    {
+        "test_id": "tid_171\n\tchg_current = 7000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 4333
+    },
+    {
+        "test_id": "tid_172\n\tchg_current = 7000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 4794
+    },
+    {
+        "test_id": "tid_173\n\tchg_current = 7000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 5316
+    },
+    {
+        "test_id": "tid_174\n\tchg_current = 7000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 5875
+    },
+    {
+        "test_id": "tid_175\n\tchg_current = 7000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 6445
+    },
+    {
+        "test_id": "tid_176\n\tchg_current = 7000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 7000
+    },
+    {
+        "test_id": "tid_177\n\tchg_current = 7000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 7000
+    },
+    {
+        "test_id": "tid_178\n\tchg_current = 7000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 7000
+    },
+    {
+        "test_id": "tid_179\n\tchg_current = 7000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 7000
+    },
+    {
+        "test_id": "tid_180\n\tchg_current = 7000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 7000
+    },
+    {
+        "test_id": "tid_181\n\tchg_current = 7500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 3929
+    },
+    {
+        "test_id": "tid_182\n\tchg_current = 7500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 4234
+    },
+    {
+        "test_id": "tid_183\n\tchg_current = 7500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 4642
+    },
+    {
+        "test_id": "tid_184\n\tchg_current = 7500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 5136
+    },
+    {
+        "test_id": "tid_185\n\tchg_current = 7500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 5695
+    },
+    {
+        "test_id": "tid_186\n\tchg_current = 7500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 6295
+    },
+    {
+        "test_id": "tid_187\n\tchg_current = 7500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 6906
+    },
+    {
+        "test_id": "tid_188\n\tchg_current = 7500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 7500
+    },
+    {
+        "test_id": "tid_189\n\tchg_current = 7500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 7500
+    },
+    {
+        "test_id": "tid_190\n\tchg_current = 7500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 7500
+    },
+    {
+        "test_id": "tid_191\n\tchg_current = 7500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 7500
+    },
+    {
+        "test_id": "tid_192\n\tchg_current = 7500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 7500
+    },
+    {
+        "test_id": "tid_193\n\tchg_current = 8000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 4191
+    },
+    {
+        "test_id": "tid_194\n\tchg_current = 8000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 4516
+    },
+    {
+        "test_id": "tid_195\n\tchg_current = 8000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 4952
+    },
+    {
+        "test_id": "tid_196\n\tchg_current = 8000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 5479
+    },
+    {
+        "test_id": "tid_197\n\tchg_current = 8000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 6075
+    },
+    {
+        "test_id": "tid_198\n\tchg_current = 8000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 6714
+    },
+    {
+        "test_id": "tid_199\n\tchg_current = 8000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 7366
+    },
+    {
+        "test_id": "tid_200\n\tchg_current = 8000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 8000
+    },
+    {
+        "test_id": "tid_201\n\tchg_current = 8000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 8000
+    },
+    {
+        "test_id": "tid_202\n\tchg_current = 8000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 8000
+    },
+    {
+        "test_id": "tid_203\n\tchg_current = 8000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 8000
+    },
+    {
+        "test_id": "tid_204\n\tchg_current = 8000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 8000
+    },
+    {
+        "test_id": "tid_205\n\tchg_current = 8500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 4453
+    },
+    {
+        "test_id": "tid_206\n\tchg_current = 8500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 4799
+    },
+    {
+        "test_id": "tid_207\n\tchg_current = 8500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 5261
+    },
+    {
+        "test_id": "tid_208\n\tchg_current = 8500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 5821
+    },
+    {
+        "test_id": "tid_209\n\tchg_current = 8500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 6455
+    },
+    {
+        "test_id": "tid_210\n\tchg_current = 8500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 7134
+    },
+    {
+        "test_id": "tid_211\n\tchg_current = 8500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 7827
+    },
+    {
+        "test_id": "tid_212\n\tchg_current = 8500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 8500
+    },
+    {
+        "test_id": "tid_213\n\tchg_current = 8500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 8500
+    },
+    {
+        "test_id": "tid_214\n\tchg_current = 8500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 8500
+    },
+    {
+        "test_id": "tid_215\n\tchg_current = 8500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 8500
+    },
+    {
+        "test_id": "tid_216\n\tchg_current = 8500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 8500
+    },
+    {
+        "test_id": "tid_217\n\tchg_current = 9000\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 4715
+    },
+    {
+        "test_id": "tid_218\n\tchg_current = 9000\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 5081
+    },
+    {
+        "test_id": "tid_219\n\tchg_current = 9000\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 5571
+    },
+    {
+        "test_id": "tid_220\n\tchg_current = 9000\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 6163
+    },
+    {
+        "test_id": "tid_221\n\tchg_current = 9000\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 6834
+    },
+    {
+        "test_id": "tid_222\n\tchg_current = 9000\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 7554
+    },
+    {
+        "test_id": "tid_223\n\tchg_current = 9000\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 8287
+    },
+    {
+        "test_id": "tid_224\n\tchg_current = 9000\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 9000
+    },
+    {
+        "test_id": "tid_225\n\tchg_current = 9000\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 9000
+    },
+    {
+        "test_id": "tid_226\n\tchg_current = 9000\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 9000
+    },
+    {
+        "test_id": "tid_227\n\tchg_current = 9000\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 9000
+    },
+    {
+        "test_id": "tid_228\n\tchg_current = 9000\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 9000
+    },
+    {
+        "test_id": "tid_229\n\tchg_current = 9500\n\tCell_temp = 0",
+        "Le_U_CompensatedCurr": 4977
+    },
+    {
+        "test_id": "tid_230\n\tchg_current = 9500\n\tCell_temp = 50",
+        "Le_U_CompensatedCurr": 5363
+    },
+    {
+        "test_id": "tid_231\n\tchg_current = 9500\n\tCell_temp = 100",
+        "Le_U_CompensatedCurr": 5880
+    },
+    {
+        "test_id": "tid_232\n\tchg_current = 9500\n\tCell_temp = 150",
+        "Le_U_CompensatedCurr": 6506
+    },
+    {
+        "test_id": "tid_233\n\tchg_current = 9500\n\tCell_temp = 200",
+        "Le_U_CompensatedCurr": 7214
+    },
+    {
+        "test_id": "tid_234\n\tchg_current = 9500\n\tCell_temp = 250",
+        "Le_U_CompensatedCurr": 7973
+    },
+    {
+        "test_id": "tid_235\n\tchg_current = 9500\n\tCell_temp = 300",
+        "Le_U_CompensatedCurr": 8748
+    },
+    {
+        "test_id": "tid_236\n\tchg_current = 9500\n\tCell_temp = 350",
+        "Le_U_CompensatedCurr": 9500
+    },
+    {
+        "test_id": "tid_237\n\tchg_current = 9500\n\tCell_temp = 400",
+        "Le_U_CompensatedCurr": 9500
+    },
+    {
+        "test_id": "tid_238\n\tchg_current = 9500\n\tCell_temp = 450",
+        "Le_U_CompensatedCurr": 9500
+    },
+    {
+        "test_id": "tid_239\n\tchg_current = 9500\n\tCell_temp = 500",
+        "Le_U_CompensatedCurr": 9500
+    },
+    {
+        "test_id": "tid_240\n\tchg_current = 9500\n\tCell_temp = 550",
+        "Le_U_CompensatedCurr": 9500
+    }
+]

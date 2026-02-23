@@ -1,0 +1,834 @@
+[
+    {
+        "test_id": "tid_1\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 345000
+    },
+    {
+        "test_id": "tid_2\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 345000
+    },
+    {
+        "test_id": "tid_3\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 345000
+    },
+    {
+        "test_id": "tid_4\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 311000
+    },
+    {
+        "test_id": "tid_5\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 270000
+    },
+    {
+        "test_id": "tid_6\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 232000
+    },
+    {
+        "test_id": "tid_7\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 197000
+    },
+    {
+        "test_id": "tid_8\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 165000
+    },
+    {
+        "test_id": "tid_9\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 136000
+    },
+    {
+        "test_id": "tid_10\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 111000
+    },
+    {
+        "test_id": "tid_11\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 90000
+    },
+    {
+        "test_id": "tid_12\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 72000
+    },
+    {
+        "test_id": "tid_13\n\tLe_i_PresentStageIdx = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 50000
+    },
+    {
+        "test_id": "tid_14\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 323000
+    },
+    {
+        "test_id": "tid_15\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 323000
+    },
+    {
+        "test_id": "tid_16\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 323000
+    },
+    {
+        "test_id": "tid_17\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 291000
+    },
+    {
+        "test_id": "tid_18\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 250000
+    },
+    {
+        "test_id": "tid_19\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 216000
+    },
+    {
+        "test_id": "tid_20\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 185000
+    },
+    {
+        "test_id": "tid_21\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 155000
+    },
+    {
+        "test_id": "tid_22\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 128000
+    },
+    {
+        "test_id": "tid_23\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_24\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 84000
+    },
+    {
+        "test_id": "tid_25\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 66000
+    },
+    {
+        "test_id": "tid_26\n\tLe_i_PresentStageIdx = 2\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 46000
+    },
+    {
+        "test_id": "tid_27\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 301000
+    },
+    {
+        "test_id": "tid_28\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 301000
+    },
+    {
+        "test_id": "tid_29\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 301000
+    },
+    {
+        "test_id": "tid_30\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 271000
+    },
+    {
+        "test_id": "tid_31\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 230000
+    },
+    {
+        "test_id": "tid_32\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 200000
+    },
+    {
+        "test_id": "tid_33\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 173000
+    },
+    {
+        "test_id": "tid_34\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 145000
+    },
+    {
+        "test_id": "tid_35\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 120000
+    },
+    {
+        "test_id": "tid_36\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 95000
+    },
+    {
+        "test_id": "tid_37\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 78000
+    },
+    {
+        "test_id": "tid_38\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 60000
+    },
+    {
+        "test_id": "tid_39\n\tLe_i_PresentStageIdx = 4\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_40\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 279000
+    },
+    {
+        "test_id": "tid_41\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 279000
+    },
+    {
+        "test_id": "tid_42\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 279000
+    },
+    {
+        "test_id": "tid_43\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 251000
+    },
+    {
+        "test_id": "tid_44\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 210000
+    },
+    {
+        "test_id": "tid_45\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 184000
+    },
+    {
+        "test_id": "tid_46\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 161000
+    },
+    {
+        "test_id": "tid_47\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 135000
+    },
+    {
+        "test_id": "tid_48\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 112000
+    },
+    {
+        "test_id": "tid_49\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 87000
+    },
+    {
+        "test_id": "tid_50\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 72000
+    },
+    {
+        "test_id": "tid_51\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 54000
+    },
+    {
+        "test_id": "tid_52\n\tLe_i_PresentStageIdx = 6\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 38000
+    },
+    {
+        "test_id": "tid_53\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 257000
+    },
+    {
+        "test_id": "tid_54\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 257000
+    },
+    {
+        "test_id": "tid_55\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 257000
+    },
+    {
+        "test_id": "tid_56\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 231000
+    },
+    {
+        "test_id": "tid_57\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 190000
+    },
+    {
+        "test_id": "tid_58\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 168000
+    },
+    {
+        "test_id": "tid_59\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 149000
+    },
+    {
+        "test_id": "tid_60\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 125000
+    },
+    {
+        "test_id": "tid_61\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 104000
+    },
+    {
+        "test_id": "tid_62\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 79000
+    },
+    {
+        "test_id": "tid_63\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 66000
+    },
+    {
+        "test_id": "tid_64\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 48000
+    },
+    {
+        "test_id": "tid_65\n\tLe_i_PresentStageIdx = 8\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 34000
+    },
+    {
+        "test_id": "tid_66\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 235000
+    },
+    {
+        "test_id": "tid_67\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 235000
+    },
+    {
+        "test_id": "tid_68\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 235000
+    },
+    {
+        "test_id": "tid_69\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 211000
+    },
+    {
+        "test_id": "tid_70\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 170000
+    },
+    {
+        "test_id": "tid_71\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 152000
+    },
+    {
+        "test_id": "tid_72\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 137000
+    },
+    {
+        "test_id": "tid_73\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 115000
+    },
+    {
+        "test_id": "tid_74\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 96000
+    },
+    {
+        "test_id": "tid_75\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 71000
+    },
+    {
+        "test_id": "tid_76\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 60000
+    },
+    {
+        "test_id": "tid_77\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_78\n\tLe_i_PresentStageIdx = 10\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_79\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 213000
+    },
+    {
+        "test_id": "tid_80\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 213000
+    },
+    {
+        "test_id": "tid_81\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 213000
+    },
+    {
+        "test_id": "tid_82\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 191000
+    },
+    {
+        "test_id": "tid_83\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 150000
+    },
+    {
+        "test_id": "tid_84\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 136000
+    },
+    {
+        "test_id": "tid_85\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 125000
+    },
+    {
+        "test_id": "tid_86\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 105000
+    },
+    {
+        "test_id": "tid_87\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 88000
+    },
+    {
+        "test_id": "tid_88\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 63000
+    },
+    {
+        "test_id": "tid_89\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 54000
+    },
+    {
+        "test_id": "tid_90\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 36000
+    },
+    {
+        "test_id": "tid_91\n\tLe_i_PresentStageIdx = 12\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_92\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 191000
+    },
+    {
+        "test_id": "tid_93\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 191000
+    },
+    {
+        "test_id": "tid_94\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 191000
+    },
+    {
+        "test_id": "tid_95\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 171000
+    },
+    {
+        "test_id": "tid_96\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 130000
+    },
+    {
+        "test_id": "tid_97\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 120000
+    },
+    {
+        "test_id": "tid_98\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 113000
+    },
+    {
+        "test_id": "tid_99\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 95000
+    },
+    {
+        "test_id": "tid_100\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_101\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 55000
+    },
+    {
+        "test_id": "tid_102\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 48000
+    },
+    {
+        "test_id": "tid_103\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_104\n\tLe_i_PresentStageIdx = 14\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_105\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 169000
+    },
+    {
+        "test_id": "tid_106\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 169000
+    },
+    {
+        "test_id": "tid_107\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 169000
+    },
+    {
+        "test_id": "tid_108\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 151000
+    },
+    {
+        "test_id": "tid_109\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 110000
+    },
+    {
+        "test_id": "tid_110\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 104000
+    },
+    {
+        "test_id": "tid_111\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 101000
+    },
+    {
+        "test_id": "tid_112\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 85000
+    },
+    {
+        "test_id": "tid_113\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 72000
+    },
+    {
+        "test_id": "tid_114\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_115\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_116\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_117\n\tLe_i_PresentStageIdx = 16\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_118\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 147000
+    },
+    {
+        "test_id": "tid_119\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 147000
+    },
+    {
+        "test_id": "tid_120\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 147000
+    },
+    {
+        "test_id": "tid_121\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 131000
+    },
+    {
+        "test_id": "tid_122\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 90000
+    },
+    {
+        "test_id": "tid_123\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 88000
+    },
+    {
+        "test_id": "tid_124\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 89000
+    },
+    {
+        "test_id": "tid_125\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 75000
+    },
+    {
+        "test_id": "tid_126\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 64000
+    },
+    {
+        "test_id": "tid_127\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_128\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_129\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_130\n\tLe_i_PresentStageIdx = 18\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_131\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 125000
+    },
+    {
+        "test_id": "tid_132\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 125000
+    },
+    {
+        "test_id": "tid_133\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 125000
+    },
+    {
+        "test_id": "tid_134\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 111000
+    },
+    {
+        "test_id": "tid_135\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_136\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_137\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 77000
+    },
+    {
+        "test_id": "tid_138\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 65000
+    },
+    {
+        "test_id": "tid_139\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 64000
+    },
+    {
+        "test_id": "tid_140\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_141\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_142\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_143\n\tLe_i_PresentStageIdx = 20\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_144\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_145\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_146\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_147\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 91000
+    },
+    {
+        "test_id": "tid_148\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_149\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_150\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 71000
+    },
+    {
+        "test_id": "tid_151\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 65000
+    },
+    {
+        "test_id": "tid_152\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 64000
+    },
+    {
+        "test_id": "tid_153\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_154\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_155\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_156\n\tLe_i_PresentStageIdx = 22\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_157\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_158\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_159\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_160\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 91000
+    },
+    {
+        "test_id": "tid_161\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_162\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_163\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 71000
+    },
+    {
+        "test_id": "tid_164\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 65000
+    },
+    {
+        "test_id": "tid_165\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 64000
+    },
+    {
+        "test_id": "tid_166\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_167\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_168\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_169\n\tLe_i_PresentStageIdx = 24\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_170\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_171\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_172\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_173\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 91000
+    },
+    {
+        "test_id": "tid_174\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_175\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_176\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 71000
+    },
+    {
+        "test_id": "tid_177\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 65000
+    },
+    {
+        "test_id": "tid_178\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 64000
+    },
+    {
+        "test_id": "tid_179\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_180\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_181\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_182\n\tLe_i_PresentStageIdx = 26\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_183\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_184\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_185\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_186\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 91000
+    },
+    {
+        "test_id": "tid_187\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_188\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_189\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 71000
+    },
+    {
+        "test_id": "tid_190\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 65000
+    },
+    {
+        "test_id": "tid_191\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 64000
+    },
+    {
+        "test_id": "tid_192\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_193\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_194\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_195\n\tLe_i_PresentStageIdx = 28\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    },
+    {
+        "test_id": "tid_196\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_197\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_198\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "Le_I_Stg_ChgCurr": 103000
+    },
+    {
+        "test_id": "tid_199\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "Le_I_Stg_ChgCurr": 91000
+    },
+    {
+        "test_id": "tid_200\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_201\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "Le_I_Stg_ChgCurr": 80000
+    },
+    {
+        "test_id": "tid_202\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "Le_I_Stg_ChgCurr": 71000
+    },
+    {
+        "test_id": "tid_203\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "Le_I_Stg_ChgCurr": 65000
+    },
+    {
+        "test_id": "tid_204\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "Le_I_Stg_ChgCurr": 64000
+    },
+    {
+        "test_id": "tid_205\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "Le_I_Stg_ChgCurr": 47000
+    },
+    {
+        "test_id": "tid_206\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "Le_I_Stg_ChgCurr": 42000
+    },
+    {
+        "test_id": "tid_207\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "Le_I_Stg_ChgCurr": 33000
+    },
+    {
+        "test_id": "tid_208\n\tLe_i_PresentStageIdx = 30\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "Le_I_Stg_ChgCurr": 30000
+    }
+]

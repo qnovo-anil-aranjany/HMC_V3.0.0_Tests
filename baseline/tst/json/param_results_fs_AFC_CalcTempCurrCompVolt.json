@@ -1,0 +1,2162 @@
+[
+    {
+        "test_id": "tid_1\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 65511
+    },
+    {
+        "test_id": "tid_2\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 64932
+    },
+    {
+        "test_id": "tid_3\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 64077
+    },
+    {
+        "test_id": "tid_4\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 63094
+    },
+    {
+        "test_id": "tid_5\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 62168
+    },
+    {
+        "test_id": "tid_6\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 61482
+    },
+    {
+        "test_id": "tid_7\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 478
+    },
+    {
+        "test_id": "tid_8\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 65528
+    },
+    {
+        "test_id": "tid_9\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 64808
+    },
+    {
+        "test_id": "tid_10\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 63980
+    },
+    {
+        "test_id": "tid_11\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 63201
+    },
+    {
+        "test_id": "tid_12\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 62622
+    },
+    {
+        "test_id": "tid_13\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 982
+    },
+    {
+        "test_id": "tid_14\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 586
+    },
+    {
+        "test_id": "tid_15\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1
+    },
+    {
+        "test_id": "tid_16\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64866
+    },
+    {
+        "test_id": "tid_17\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64233
+    },
+    {
+        "test_id": "tid_18\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63763
+    },
+    {
+        "test_id": "tid_19\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1486
+    },
+    {
+        "test_id": "tid_20\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1182
+    },
+    {
+        "test_id": "tid_21\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 732
+    },
+    {
+        "test_id": "tid_22\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 215
+    },
+    {
+        "test_id": "tid_23\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65265
+    },
+    {
+        "test_id": "tid_24\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64903
+    },
+    {
+        "test_id": "tid_25\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1990
+    },
+    {
+        "test_id": "tid_26\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1777
+    },
+    {
+        "test_id": "tid_27\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1462
+    },
+    {
+        "test_id": "tid_28\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1101
+    },
+    {
+        "test_id": "tid_29\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 760
+    },
+    {
+        "test_id": "tid_30\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 507
+    },
+    {
+        "test_id": "tid_31\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2494
+    },
+    {
+        "test_id": "tid_32\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2373
+    },
+    {
+        "test_id": "tid_33\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2193
+    },
+    {
+        "test_id": "tid_34\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1986
+    },
+    {
+        "test_id": "tid_35\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1792
+    },
+    {
+        "test_id": "tid_36\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1648
+    },
+    {
+        "test_id": "tid_37\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2998
+    },
+    {
+        "test_id": "tid_38\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2968
+    },
+    {
+        "test_id": "tid_39\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2923
+    },
+    {
+        "test_id": "tid_40\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2872
+    },
+    {
+        "test_id": "tid_41\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2824
+    },
+    {
+        "test_id": "tid_42\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2788
+    },
+    {
+        "test_id": "tid_43\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3502
+    },
+    {
+        "test_id": "tid_44\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3563
+    },
+    {
+        "test_id": "tid_45\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3654
+    },
+    {
+        "test_id": "tid_46\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3758
+    },
+    {
+        "test_id": "tid_47\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3856
+    },
+    {
+        "test_id": "tid_48\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3929
+    },
+    {
+        "test_id": "tid_49\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 4006
+    },
+    {
+        "test_id": "tid_50\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 4159
+    },
+    {
+        "test_id": "tid_51\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4384
+    },
+    {
+        "test_id": "tid_52\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4644
+    },
+    {
+        "test_id": "tid_53\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4888
+    },
+    {
+        "test_id": "tid_54\n\tVeAPI_Pct_PackSOC = 0\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 5069
+    },
+    {
+        "test_id": "tid_55\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 238
+    },
+    {
+        "test_id": "tid_56\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 65200
+    },
+    {
+        "test_id": "tid_57\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 64350
+    },
+    {
+        "test_id": "tid_58\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 63374
+    },
+    {
+        "test_id": "tid_59\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 62454
+    },
+    {
+        "test_id": "tid_60\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 61771
+    },
+    {
+        "test_id": "tid_61\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 703
+    },
+    {
+        "test_id": "tid_62\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 212
+    },
+    {
+        "test_id": "tid_63\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 65024
+    },
+    {
+        "test_id": "tid_64\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64191
+    },
+    {
+        "test_id": "tid_65\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 63406
+    },
+    {
+        "test_id": "tid_66\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 62824
+    },
+    {
+        "test_id": "tid_67\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1168
+    },
+    {
+        "test_id": "tid_68\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 762
+    },
+    {
+        "test_id": "tid_69\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 161
+    },
+    {
+        "test_id": "tid_70\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65008
+    },
+    {
+        "test_id": "tid_71\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64358
+    },
+    {
+        "test_id": "tid_72\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63876
+    },
+    {
+        "test_id": "tid_73\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1633
+    },
+    {
+        "test_id": "tid_74\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1311
+    },
+    {
+        "test_id": "tid_75\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 835
+    },
+    {
+        "test_id": "tid_76\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 289
+    },
+    {
+        "test_id": "tid_77\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65311
+    },
+    {
+        "test_id": "tid_78\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64929
+    },
+    {
+        "test_id": "tid_79\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2098
+    },
+    {
+        "test_id": "tid_80\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1860
+    },
+    {
+        "test_id": "tid_81\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1509
+    },
+    {
+        "test_id": "tid_82\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1106
+    },
+    {
+        "test_id": "tid_83\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 726
+    },
+    {
+        "test_id": "tid_84\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 444
+    },
+    {
+        "test_id": "tid_85\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2563
+    },
+    {
+        "test_id": "tid_86\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2410
+    },
+    {
+        "test_id": "tid_87\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2183
+    },
+    {
+        "test_id": "tid_88\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1923
+    },
+    {
+        "test_id": "tid_89\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1678
+    },
+    {
+        "test_id": "tid_90\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1496
+    },
+    {
+        "test_id": "tid_91\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3028
+    },
+    {
+        "test_id": "tid_92\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2959
+    },
+    {
+        "test_id": "tid_93\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2857
+    },
+    {
+        "test_id": "tid_94\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2741
+    },
+    {
+        "test_id": "tid_95\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2630
+    },
+    {
+        "test_id": "tid_96\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2549
+    },
+    {
+        "test_id": "tid_97\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3493
+    },
+    {
+        "test_id": "tid_98\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3509
+    },
+    {
+        "test_id": "tid_99\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3532
+    },
+    {
+        "test_id": "tid_100\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3558
+    },
+    {
+        "test_id": "tid_101\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3583
+    },
+    {
+        "test_id": "tid_102\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3601
+    },
+    {
+        "test_id": "tid_103\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3958
+    },
+    {
+        "test_id": "tid_104\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 4058
+    },
+    {
+        "test_id": "tid_105\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4206
+    },
+    {
+        "test_id": "tid_106\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4375
+    },
+    {
+        "test_id": "tid_107\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4535
+    },
+    {
+        "test_id": "tid_108\n\tVeAPI_Pct_PackSOC = 1000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 4654
+    },
+    {
+        "test_id": "tid_109\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 481
+    },
+    {
+        "test_id": "tid_110\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 65466
+    },
+    {
+        "test_id": "tid_111\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 64652
+    },
+    {
+        "test_id": "tid_112\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 63716
+    },
+    {
+        "test_id": "tid_113\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 62834
+    },
+    {
+        "test_id": "tid_114\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 62179
+    },
+    {
+        "test_id": "tid_115\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 912
+    },
+    {
+        "test_id": "tid_116\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 439
+    },
+    {
+        "test_id": "tid_117\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 65277
+    },
+    {
+        "test_id": "tid_118\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64474
+    },
+    {
+        "test_id": "tid_119\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 63718
+    },
+    {
+        "test_id": "tid_120\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63156
+    },
+    {
+        "test_id": "tid_121\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1344
+    },
+    {
+        "test_id": "tid_122\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 949
+    },
+    {
+        "test_id": "tid_123\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 366
+    },
+    {
+        "test_id": "tid_124\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65233
+    },
+    {
+        "test_id": "tid_125\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64602
+    },
+    {
+        "test_id": "tid_126\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64133
+    },
+    {
+        "test_id": "tid_127\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1776
+    },
+    {
+        "test_id": "tid_128\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1459
+    },
+    {
+        "test_id": "tid_129\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 992
+    },
+    {
+        "test_id": "tid_130\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 455
+    },
+    {
+        "test_id": "tid_131\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65485
+    },
+    {
+        "test_id": "tid_132\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 65110
+    },
+    {
+        "test_id": "tid_133\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2207
+    },
+    {
+        "test_id": "tid_134\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1969
+    },
+    {
+        "test_id": "tid_135\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1617
+    },
+    {
+        "test_id": "tid_136\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1213
+    },
+    {
+        "test_id": "tid_137\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 832
+    },
+    {
+        "test_id": "tid_138\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 550
+    },
+    {
+        "test_id": "tid_139\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2639
+    },
+    {
+        "test_id": "tid_140\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2479
+    },
+    {
+        "test_id": "tid_141\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2243
+    },
+    {
+        "test_id": "tid_142\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1972
+    },
+    {
+        "test_id": "tid_143\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1716
+    },
+    {
+        "test_id": "tid_144\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1527
+    },
+    {
+        "test_id": "tid_145\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3071
+    },
+    {
+        "test_id": "tid_146\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2989
+    },
+    {
+        "test_id": "tid_147\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2869
+    },
+    {
+        "test_id": "tid_148\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2731
+    },
+    {
+        "test_id": "tid_149\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2600
+    },
+    {
+        "test_id": "tid_150\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2504
+    },
+    {
+        "test_id": "tid_151\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3502
+    },
+    {
+        "test_id": "tid_152\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3499
+    },
+    {
+        "test_id": "tid_153\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3494
+    },
+    {
+        "test_id": "tid_154\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3489
+    },
+    {
+        "test_id": "tid_155\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3484
+    },
+    {
+        "test_id": "tid_156\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3480
+    },
+    {
+        "test_id": "tid_157\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3934
+    },
+    {
+        "test_id": "tid_158\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 4009
+    },
+    {
+        "test_id": "tid_159\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4120
+    },
+    {
+        "test_id": "tid_160\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4248
+    },
+    {
+        "test_id": "tid_161\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4368
+    },
+    {
+        "test_id": "tid_162\n\tVeAPI_Pct_PackSOC = 2000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 4457
+    },
+    {
+        "test_id": "tid_163\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 699
+    },
+    {
+        "test_id": "tid_164\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 173
+    },
+    {
+        "test_id": "tid_165\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 64934
+    },
+    {
+        "test_id": "tid_166\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64042
+    },
+    {
+        "test_id": "tid_167\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 63202
+    },
+    {
+        "test_id": "tid_168\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 62578
+    },
+    {
+        "test_id": "tid_169\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1102
+    },
+    {
+        "test_id": "tid_170\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 649
+    },
+    {
+        "test_id": "tid_171\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 65518
+    },
+    {
+        "test_id": "tid_172\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64750
+    },
+    {
+        "test_id": "tid_173\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64027
+    },
+    {
+        "test_id": "tid_174\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63490
+    },
+    {
+        "test_id": "tid_175\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1504
+    },
+    {
+        "test_id": "tid_176\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1125
+    },
+    {
+        "test_id": "tid_177\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 565
+    },
+    {
+        "test_id": "tid_178\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65458
+    },
+    {
+        "test_id": "tid_179\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64851
+    },
+    {
+        "test_id": "tid_180\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64401
+    },
+    {
+        "test_id": "tid_181\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1907
+    },
+    {
+        "test_id": "tid_182\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1601
+    },
+    {
+        "test_id": "tid_183\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1149
+    },
+    {
+        "test_id": "tid_184\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 629
+    },
+    {
+        "test_id": "tid_185\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 139
+    },
+    {
+        "test_id": "tid_186\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 65313
+    },
+    {
+        "test_id": "tid_187\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2310
+    },
+    {
+        "test_id": "tid_188\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2077
+    },
+    {
+        "test_id": "tid_189\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1732
+    },
+    {
+        "test_id": "tid_190\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1337
+    },
+    {
+        "test_id": "tid_191\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 964
+    },
+    {
+        "test_id": "tid_192\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 687
+    },
+    {
+        "test_id": "tid_193\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2713
+    },
+    {
+        "test_id": "tid_194\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2552
+    },
+    {
+        "test_id": "tid_195\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2316
+    },
+    {
+        "test_id": "tid_196\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2044
+    },
+    {
+        "test_id": "tid_197\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1788
+    },
+    {
+        "test_id": "tid_198\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1598
+    },
+    {
+        "test_id": "tid_199\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3115
+    },
+    {
+        "test_id": "tid_200\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3028
+    },
+    {
+        "test_id": "tid_201\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2900
+    },
+    {
+        "test_id": "tid_202\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2752
+    },
+    {
+        "test_id": "tid_203\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2613
+    },
+    {
+        "test_id": "tid_204\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2510
+    },
+    {
+        "test_id": "tid_205\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3518
+    },
+    {
+        "test_id": "tid_206\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3504
+    },
+    {
+        "test_id": "tid_207\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3484
+    },
+    {
+        "test_id": "tid_208\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3460
+    },
+    {
+        "test_id": "tid_209\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3438
+    },
+    {
+        "test_id": "tid_210\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3421
+    },
+    {
+        "test_id": "tid_211\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3921
+    },
+    {
+        "test_id": "tid_212\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3980
+    },
+    {
+        "test_id": "tid_213\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4067
+    },
+    {
+        "test_id": "tid_214\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4168
+    },
+    {
+        "test_id": "tid_215\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4263
+    },
+    {
+        "test_id": "tid_216\n\tVeAPI_Pct_PackSOC = 3000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 4333
+    },
+    {
+        "test_id": "tid_217\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 893
+    },
+    {
+        "test_id": "tid_218\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 394
+    },
+    {
+        "test_id": "tid_219\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 65193
+    },
+    {
+        "test_id": "tid_220\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64345
+    },
+    {
+        "test_id": "tid_221\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 63546
+    },
+    {
+        "test_id": "tid_222\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 62954
+    },
+    {
+        "test_id": "tid_223\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1271
+    },
+    {
+        "test_id": "tid_224\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 840
+    },
+    {
+        "test_id": "tid_225\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 203
+    },
+    {
+        "test_id": "tid_226\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65008
+    },
+    {
+        "test_id": "tid_227\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64319
+    },
+    {
+        "test_id": "tid_228\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63808
+    },
+    {
+        "test_id": "tid_229\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1648
+    },
+    {
+        "test_id": "tid_230\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1286
+    },
+    {
+        "test_id": "tid_231\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 750
+    },
+    {
+        "test_id": "tid_232\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 135
+    },
+    {
+        "test_id": "tid_233\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65092
+    },
+    {
+        "test_id": "tid_234\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64662
+    },
+    {
+        "test_id": "tid_235\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2025
+    },
+    {
+        "test_id": "tid_236\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1731
+    },
+    {
+        "test_id": "tid_237\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1297
+    },
+    {
+        "test_id": "tid_238\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 798
+    },
+    {
+        "test_id": "tid_239\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 328
+    },
+    {
+        "test_id": "tid_240\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 65516
+    },
+    {
+        "test_id": "tid_241\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2403
+    },
+    {
+        "test_id": "tid_242\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2177
+    },
+    {
+        "test_id": "tid_243\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1844
+    },
+    {
+        "test_id": "tid_244\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1462
+    },
+    {
+        "test_id": "tid_245\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1101
+    },
+    {
+        "test_id": "tid_246\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 833
+    },
+    {
+        "test_id": "tid_247\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2780
+    },
+    {
+        "test_id": "tid_248\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2623
+    },
+    {
+        "test_id": "tid_249\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2391
+    },
+    {
+        "test_id": "tid_250\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2125
+    },
+    {
+        "test_id": "tid_251\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1874
+    },
+    {
+        "test_id": "tid_252\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1688
+    },
+    {
+        "test_id": "tid_253\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3158
+    },
+    {
+        "test_id": "tid_254\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3069
+    },
+    {
+        "test_id": "tid_255\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2939
+    },
+    {
+        "test_id": "tid_256\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2788
+    },
+    {
+        "test_id": "tid_257\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2647
+    },
+    {
+        "test_id": "tid_258\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2542
+    },
+    {
+        "test_id": "tid_259\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3535
+    },
+    {
+        "test_id": "tid_260\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3515
+    },
+    {
+        "test_id": "tid_261\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3486
+    },
+    {
+        "test_id": "tid_262\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3452
+    },
+    {
+        "test_id": "tid_263\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3420
+    },
+    {
+        "test_id": "tid_264\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3396
+    },
+    {
+        "test_id": "tid_265\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3913
+    },
+    {
+        "test_id": "tid_266\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3961
+    },
+    {
+        "test_id": "tid_267\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4033
+    },
+    {
+        "test_id": "tid_268\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4115
+    },
+    {
+        "test_id": "tid_269\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4193
+    },
+    {
+        "test_id": "tid_270\n\tVeAPI_Pct_PackSOC = 4000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 4250
+    },
+    {
+        "test_id": "tid_271\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1077
+    },
+    {
+        "test_id": "tid_272\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 597
+    },
+    {
+        "test_id": "tid_273\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 65426
+    },
+    {
+        "test_id": "tid_274\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64613
+    },
+    {
+        "test_id": "tid_275\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 63846
+    },
+    {
+        "test_id": "tid_276\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63277
+    },
+    {
+        "test_id": "tid_277\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1432
+    },
+    {
+        "test_id": "tid_278\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1017
+    },
+    {
+        "test_id": "tid_279\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 404
+    },
+    {
+        "test_id": "tid_280\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65237
+    },
+    {
+        "test_id": "tid_281\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64573
+    },
+    {
+        "test_id": "tid_282\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64081
+    },
+    {
+        "test_id": "tid_283\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1787
+    },
+    {
+        "test_id": "tid_284\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1437
+    },
+    {
+        "test_id": "tid_285\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 919
+    },
+    {
+        "test_id": "tid_286\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 324
+    },
+    {
+        "test_id": "tid_287\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65300
+    },
+    {
+        "test_id": "tid_288\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64885
+    },
+    {
+        "test_id": "tid_289\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2142
+    },
+    {
+        "test_id": "tid_290\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1856
+    },
+    {
+        "test_id": "tid_291\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1434
+    },
+    {
+        "test_id": "tid_292\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 948
+    },
+    {
+        "test_id": "tid_293\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 491
+    },
+    {
+        "test_id": "tid_294\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 151
+    },
+    {
+        "test_id": "tid_295\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2497
+    },
+    {
+        "test_id": "tid_296\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2276
+    },
+    {
+        "test_id": "tid_297\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1949
+    },
+    {
+        "test_id": "tid_298\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1572
+    },
+    {
+        "test_id": "tid_299\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1218
+    },
+    {
+        "test_id": "tid_300\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 955
+    },
+    {
+        "test_id": "tid_301\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2853
+    },
+    {
+        "test_id": "tid_302\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2695
+    },
+    {
+        "test_id": "tid_303\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2463
+    },
+    {
+        "test_id": "tid_304\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2197
+    },
+    {
+        "test_id": "tid_305\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1945
+    },
+    {
+        "test_id": "tid_306\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1759
+    },
+    {
+        "test_id": "tid_307\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3208
+    },
+    {
+        "test_id": "tid_308\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3115
+    },
+    {
+        "test_id": "tid_309\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2978
+    },
+    {
+        "test_id": "tid_310\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2821
+    },
+    {
+        "test_id": "tid_311\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2673
+    },
+    {
+        "test_id": "tid_312\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2563
+    },
+    {
+        "test_id": "tid_313\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3563
+    },
+    {
+        "test_id": "tid_314\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3535
+    },
+    {
+        "test_id": "tid_315\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3493
+    },
+    {
+        "test_id": "tid_316\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3445
+    },
+    {
+        "test_id": "tid_317\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3400
+    },
+    {
+        "test_id": "tid_318\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3366
+    },
+    {
+        "test_id": "tid_319\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3918
+    },
+    {
+        "test_id": "tid_320\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3954
+    },
+    {
+        "test_id": "tid_321\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4008
+    },
+    {
+        "test_id": "tid_322\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4069
+    },
+    {
+        "test_id": "tid_323\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4127
+    },
+    {
+        "test_id": "tid_324\n\tVeAPI_Pct_PackSOC = 5000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 4170
+    },
+    {
+        "test_id": "tid_325\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1264
+    },
+    {
+        "test_id": "tid_326\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 796
+    },
+    {
+        "test_id": "tid_327\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 106
+    },
+    {
+        "test_id": "tid_328\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 64850
+    },
+    {
+        "test_id": "tid_329\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64103
+    },
+    {
+        "test_id": "tid_330\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63548
+    },
+    {
+        "test_id": "tid_331\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1599
+    },
+    {
+        "test_id": "tid_332\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1193
+    },
+    {
+        "test_id": "tid_333\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 592
+    },
+    {
+        "test_id": "tid_334\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65439
+    },
+    {
+        "test_id": "tid_335\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64789
+    },
+    {
+        "test_id": "tid_336\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64307
+    },
+    {
+        "test_id": "tid_337\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1934
+    },
+    {
+        "test_id": "tid_338\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1589
+    },
+    {
+        "test_id": "tid_339\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1078
+    },
+    {
+        "test_id": "tid_340\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 492
+    },
+    {
+        "test_id": "tid_341\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65476
+    },
+    {
+        "test_id": "tid_342\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 65066
+    },
+    {
+        "test_id": "tid_343\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2270
+    },
+    {
+        "test_id": "tid_344\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1985
+    },
+    {
+        "test_id": "tid_345\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1565
+    },
+    {
+        "test_id": "tid_346\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1081
+    },
+    {
+        "test_id": "tid_347\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 626
+    },
+    {
+        "test_id": "tid_348\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 288
+    },
+    {
+        "test_id": "tid_349\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2605
+    },
+    {
+        "test_id": "tid_350\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2381
+    },
+    {
+        "test_id": "tid_351\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2051
+    },
+    {
+        "test_id": "tid_352\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1671
+    },
+    {
+        "test_id": "tid_353\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1313
+    },
+    {
+        "test_id": "tid_354\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1047
+    },
+    {
+        "test_id": "tid_355\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2940
+    },
+    {
+        "test_id": "tid_356\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2777
+    },
+    {
+        "test_id": "tid_357\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2537
+    },
+    {
+        "test_id": "tid_358\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2260
+    },
+    {
+        "test_id": "tid_359\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1999
+    },
+    {
+        "test_id": "tid_360\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1806
+    },
+    {
+        "test_id": "tid_361\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3276
+    },
+    {
+        "test_id": "tid_362\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3174
+    },
+    {
+        "test_id": "tid_363\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3023
+    },
+    {
+        "test_id": "tid_364\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2849
+    },
+    {
+        "test_id": "tid_365\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2686
+    },
+    {
+        "test_id": "tid_366\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2565
+    },
+    {
+        "test_id": "tid_367\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3611
+    },
+    {
+        "test_id": "tid_368\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3570
+    },
+    {
+        "test_id": "tid_369\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3509
+    },
+    {
+        "test_id": "tid_370\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3439
+    },
+    {
+        "test_id": "tid_371\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3373
+    },
+    {
+        "test_id": "tid_372\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3324
+    },
+    {
+        "test_id": "tid_373\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3946
+    },
+    {
+        "test_id": "tid_374\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3966
+    },
+    {
+        "test_id": "tid_375\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3995
+    },
+    {
+        "test_id": "tid_376\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4028
+    },
+    {
+        "test_id": "tid_377\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4060
+    },
+    {
+        "test_id": "tid_378\n\tVeAPI_Pct_PackSOC = 6000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 4083
+    },
+    {
+        "test_id": "tid_379\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1432
+    },
+    {
+        "test_id": "tid_380\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 979
+    },
+    {
+        "test_id": "tid_381\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 310
+    },
+    {
+        "test_id": "tid_382\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65079
+    },
+    {
+        "test_id": "tid_383\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64354
+    },
+    {
+        "test_id": "tid_384\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 63817
+    },
+    {
+        "test_id": "tid_385\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1750
+    },
+    {
+        "test_id": "tid_386\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1355
+    },
+    {
+        "test_id": "tid_387\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 771
+    },
+    {
+        "test_id": "tid_388\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 100
+    },
+    {
+        "test_id": "tid_389\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65005
+    },
+    {
+        "test_id": "tid_390\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64536
+    },
+    {
+        "test_id": "tid_391\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2067
+    },
+    {
+        "test_id": "tid_392\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1730
+    },
+    {
+        "test_id": "tid_393\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1231
+    },
+    {
+        "test_id": "tid_394\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 658
+    },
+    {
+        "test_id": "tid_395\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 118
+    },
+    {
+        "test_id": "tid_396\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 65255
+    },
+    {
+        "test_id": "tid_397\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2385
+    },
+    {
+        "test_id": "tid_398\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2105
+    },
+    {
+        "test_id": "tid_399\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1692
+    },
+    {
+        "test_id": "tid_400\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1216
+    },
+    {
+        "test_id": "tid_401\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 769
+    },
+    {
+        "test_id": "tid_402\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 437
+    },
+    {
+        "test_id": "tid_403\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2703
+    },
+    {
+        "test_id": "tid_404\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2480
+    },
+    {
+        "test_id": "tid_405\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2152
+    },
+    {
+        "test_id": "tid_406\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1775
+    },
+    {
+        "test_id": "tid_407\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1419
+    },
+    {
+        "test_id": "tid_408\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1156
+    },
+    {
+        "test_id": "tid_409\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3020
+    },
+    {
+        "test_id": "tid_410\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2856
+    },
+    {
+        "test_id": "tid_411\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2613
+    },
+    {
+        "test_id": "tid_412\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2333
+    },
+    {
+        "test_id": "tid_413\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2070
+    },
+    {
+        "test_id": "tid_414\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1874
+    },
+    {
+        "test_id": "tid_415\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3338
+    },
+    {
+        "test_id": "tid_416\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3231
+    },
+    {
+        "test_id": "tid_417\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3073
+    },
+    {
+        "test_id": "tid_418\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2891
+    },
+    {
+        "test_id": "tid_419\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2720
+    },
+    {
+        "test_id": "tid_420\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2593
+    },
+    {
+        "test_id": "tid_421\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3656
+    },
+    {
+        "test_id": "tid_422\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3606
+    },
+    {
+        "test_id": "tid_423\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3533
+    },
+    {
+        "test_id": "tid_424\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3450
+    },
+    {
+        "test_id": "tid_425\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3371
+    },
+    {
+        "test_id": "tid_426\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3312
+    },
+    {
+        "test_id": "tid_427\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3973
+    },
+    {
+        "test_id": "tid_428\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3982
+    },
+    {
+        "test_id": "tid_429\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3994
+    },
+    {
+        "test_id": "tid_430\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 4008
+    },
+    {
+        "test_id": "tid_431\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 4021
+    },
+    {
+        "test_id": "tid_432\n\tVeAPI_Pct_PackSOC = 7000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 4031
+    },
+    {
+        "test_id": "tid_433\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1597
+    },
+    {
+        "test_id": "tid_434\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1156
+    },
+    {
+        "test_id": "tid_435\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 505
+    },
+    {
+        "test_id": "tid_436\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65293
+    },
+    {
+        "test_id": "tid_437\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64587
+    },
+    {
+        "test_id": "tid_438\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64064
+    },
+    {
+        "test_id": "tid_439\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1899
+    },
+    {
+        "test_id": "tid_440\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1513
+    },
+    {
+        "test_id": "tid_441\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 942
+    },
+    {
+        "test_id": "tid_442\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 286
+    },
+    {
+        "test_id": "tid_443\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65205
+    },
+    {
+        "test_id": "tid_444\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64746
+    },
+    {
+        "test_id": "tid_445\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2201
+    },
+    {
+        "test_id": "tid_446\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1869
+    },
+    {
+        "test_id": "tid_447\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1379
+    },
+    {
+        "test_id": "tid_448\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 816
+    },
+    {
+        "test_id": "tid_449\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 286
+    },
+    {
+        "test_id": "tid_450\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 65429
+    },
+    {
+        "test_id": "tid_451\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2503
+    },
+    {
+        "test_id": "tid_452\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2226
+    },
+    {
+        "test_id": "tid_453\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1817
+    },
+    {
+        "test_id": "tid_454\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1346
+    },
+    {
+        "test_id": "tid_455\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 904
+    },
+    {
+        "test_id": "tid_456\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 575
+    },
+    {
+        "test_id": "tid_457\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2804
+    },
+    {
+        "test_id": "tid_458\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2582
+    },
+    {
+        "test_id": "tid_459\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2254
+    },
+    {
+        "test_id": "tid_460\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1877
+    },
+    {
+        "test_id": "tid_461\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1521
+    },
+    {
+        "test_id": "tid_462\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1258
+    },
+    {
+        "test_id": "tid_463\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3106
+    },
+    {
+        "test_id": "tid_464\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2938
+    },
+    {
+        "test_id": "tid_465\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2691
+    },
+    {
+        "test_id": "tid_466\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2407
+    },
+    {
+        "test_id": "tid_467\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2139
+    },
+    {
+        "test_id": "tid_468\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1941
+    },
+    {
+        "test_id": "tid_469\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3408
+    },
+    {
+        "test_id": "tid_470\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3295
+    },
+    {
+        "test_id": "tid_471\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3128
+    },
+    {
+        "test_id": "tid_472\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2937
+    },
+    {
+        "test_id": "tid_473\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2757
+    },
+    {
+        "test_id": "tid_474\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2623
+    },
+    {
+        "test_id": "tid_475\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3709
+    },
+    {
+        "test_id": "tid_476\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3651
+    },
+    {
+        "test_id": "tid_477\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3566
+    },
+    {
+        "test_id": "tid_478\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3467
+    },
+    {
+        "test_id": "tid_479\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3375
+    },
+    {
+        "test_id": "tid_480\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3306
+    },
+    {
+        "test_id": "tid_481\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 4011
+    },
+    {
+        "test_id": "tid_482\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 4008
+    },
+    {
+        "test_id": "tid_483\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4003
+    },
+    {
+        "test_id": "tid_484\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3998
+    },
+    {
+        "test_id": "tid_485\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3993
+    },
+    {
+        "test_id": "tid_486\n\tVeAPI_Pct_PackSOC = 8000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3989
+    },
+    {
+        "test_id": "tid_487\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 1743
+    },
+    {
+        "test_id": "tid_488\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1316
+    },
+    {
+        "test_id": "tid_489\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 684
+    },
+    {
+        "test_id": "tid_490\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 65496
+    },
+    {
+        "test_id": "tid_491\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 64813
+    },
+    {
+        "test_id": "tid_492\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64306
+    },
+    {
+        "test_id": "tid_493\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2030
+    },
+    {
+        "test_id": "tid_494\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1655
+    },
+    {
+        "test_id": "tid_495\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1101
+    },
+    {
+        "test_id": "tid_496\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 464
+    },
+    {
+        "test_id": "tid_497\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 65401
+    },
+    {
+        "test_id": "tid_498\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [500, 500, 500, 500, 500, 500, 500, 500, 500, 500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 64956
+    },
+    {
+        "test_id": "tid_499\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2317
+    },
+    {
+        "test_id": "tid_500\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 1994
+    },
+    {
+        "test_id": "tid_501\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1517
+    },
+    {
+        "test_id": "tid_502\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 969
+    },
+    {
+        "test_id": "tid_503\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 452
+    },
+    {
+        "test_id": "tid_504\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000, 1000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 69
+    },
+    {
+        "test_id": "tid_505\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2605
+    },
+    {
+        "test_id": "tid_506\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2334
+    },
+    {
+        "test_id": "tid_507\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 1934
+    },
+    {
+        "test_id": "tid_508\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1474
+    },
+    {
+        "test_id": "tid_509\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1041
+    },
+    {
+        "test_id": "tid_510\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500, 1500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 719
+    },
+    {
+        "test_id": "tid_511\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 2892
+    },
+    {
+        "test_id": "tid_512\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 2673
+    },
+    {
+        "test_id": "tid_513\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2350
+    },
+    {
+        "test_id": "tid_514\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 1979
+    },
+    {
+        "test_id": "tid_515\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 1629
+    },
+    {
+        "test_id": "tid_516\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000, 2000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 1369
+    },
+    {
+        "test_id": "tid_517\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3179
+    },
+    {
+        "test_id": "tid_518\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3013
+    },
+    {
+        "test_id": "tid_519\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 2767
+    },
+    {
+        "test_id": "tid_520\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2484
+    },
+    {
+        "test_id": "tid_521\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2217
+    },
+    {
+        "test_id": "tid_522\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500, 2500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2020
+    },
+    {
+        "test_id": "tid_523\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3467
+    },
+    {
+        "test_id": "tid_524\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3352
+    },
+    {
+        "test_id": "tid_525\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3183
+    },
+    {
+        "test_id": "tid_526\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 2989
+    },
+    {
+        "test_id": "tid_527\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 2806
+    },
+    {
+        "test_id": "tid_528\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000, 3000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 2670
+    },
+    {
+        "test_id": "tid_529\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 3754
+    },
+    {
+        "test_id": "tid_530\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 3692
+    },
+    {
+        "test_id": "tid_531\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 3599
+    },
+    {
+        "test_id": "tid_532\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3494
+    },
+    {
+        "test_id": "tid_533\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3394
+    },
+    {
+        "test_id": "tid_534\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500, 3500]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3320
+    },
+    {
+        "test_id": "tid_535\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [0, 0, 0, 0]",
+        "Le_U_CompensatedCellVolt": 4041
+    },
+    {
+        "test_id": "tid_536\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [100, 100, 100, 100]",
+        "Le_U_CompensatedCellVolt": 4031
+    },
+    {
+        "test_id": "tid_537\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [200, 200, 200, 200]",
+        "Le_U_CompensatedCellVolt": 4016
+    },
+    {
+        "test_id": "tid_538\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [300, 300, 300, 300]",
+        "Le_U_CompensatedCellVolt": 3999
+    },
+    {
+        "test_id": "tid_539\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [400, 400, 400, 400]",
+        "Le_U_CompensatedCellVolt": 3982
+    },
+    {
+        "test_id": "tid_540\n\tVeAPI_Pct_PackSOC = 9000\n\tVaAPI_U_CellVolts = [4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000, 4000]\n\tVaAPI_T_TempSnsrs = [500, 500, 500, 500]",
+        "Le_U_CompensatedCellVolt": 3970
+    }
+]

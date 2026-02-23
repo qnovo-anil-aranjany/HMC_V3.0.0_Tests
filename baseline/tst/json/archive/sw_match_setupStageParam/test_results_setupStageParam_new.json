@@ -1,0 +1,2522 @@
+[
+    {
+        "test_id": "\tid_1\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 0,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 345000
+    },
+    {
+        "test_id": "\tid_2\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 2,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 345000
+    },
+    {
+        "test_id": "\tid_3\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 4,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 345000
+    },
+    {
+        "test_id": "\tid_4\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 6,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 311000
+    },
+    {
+        "test_id": "\tid_5\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 8,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 270000
+    },
+    {
+        "test_id": "\tid_6\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 10,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 232000
+    },
+    {
+        "test_id": "\tid_7\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 12,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 197000
+    },
+    {
+        "test_id": "\tid_8\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 14,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 165000
+    },
+    {
+        "test_id": "\tid_9\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 16,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 136000
+    },
+    {
+        "test_id": "\tid_10\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 18,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 111000
+    },
+    {
+        "test_id": "\tid_11\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 20,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 90000
+    },
+    {
+        "test_id": "\tid_12\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 22,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 72000
+    },
+    {
+        "test_id": "\tid_13\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 24,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 50000
+    },
+    {
+        "test_id": "\tid_14\n\tVeAPI_Pct_PackSOC = 0\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 26",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 26,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_15\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 2,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 345000
+    },
+    {
+        "test_id": "\tid_16\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 2,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 345000
+    },
+    {
+        "test_id": "\tid_17\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 4,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 345000
+    },
+    {
+        "test_id": "\tid_18\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 6,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 311000
+    },
+    {
+        "test_id": "\tid_19\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 8,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 270000
+    },
+    {
+        "test_id": "\tid_20\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 10,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 232000
+    },
+    {
+        "test_id": "\tid_21\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 12,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 197000
+    },
+    {
+        "test_id": "\tid_22\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 14,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 165000
+    },
+    {
+        "test_id": "\tid_23\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 16,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 136000
+    },
+    {
+        "test_id": "\tid_24\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 18,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 111000
+    },
+    {
+        "test_id": "\tid_25\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 20,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 90000
+    },
+    {
+        "test_id": "\tid_26\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 22,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 72000
+    },
+    {
+        "test_id": "\tid_27\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 24,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 50000
+    },
+    {
+        "test_id": "\tid_28\n\tVeAPI_Pct_PackSOC = 2000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 26",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 26,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_29\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 6,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 311000
+    },
+    {
+        "test_id": "\tid_30\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 6,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 311000
+    },
+    {
+        "test_id": "\tid_31\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 6,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 311000
+    },
+    {
+        "test_id": "\tid_32\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 6,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 311000
+    },
+    {
+        "test_id": "\tid_33\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 8,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 270000
+    },
+    {
+        "test_id": "\tid_34\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 10,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 232000
+    },
+    {
+        "test_id": "\tid_35\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 12,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 197000
+    },
+    {
+        "test_id": "\tid_36\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 14,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 165000
+    },
+    {
+        "test_id": "\tid_37\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 16,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 136000
+    },
+    {
+        "test_id": "\tid_38\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 18,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 111000
+    },
+    {
+        "test_id": "\tid_39\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 20,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 90000
+    },
+    {
+        "test_id": "\tid_40\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 22,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 72000
+    },
+    {
+        "test_id": "\tid_41\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 24,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 50000
+    },
+    {
+        "test_id": "\tid_42\n\tVeAPI_Pct_PackSOC = 4000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 26",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 26,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_43\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 11,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 214000
+    },
+    {
+        "test_id": "\tid_44\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 11,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 214000
+    },
+    {
+        "test_id": "\tid_45\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 11,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 214000
+    },
+    {
+        "test_id": "\tid_46\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 11,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 214000
+    },
+    {
+        "test_id": "\tid_47\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 11,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 214000
+    },
+    {
+        "test_id": "\tid_48\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 11,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 214000
+    },
+    {
+        "test_id": "\tid_49\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 12,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 197000
+    },
+    {
+        "test_id": "\tid_50\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 14,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 165000
+    },
+    {
+        "test_id": "\tid_51\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 16,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 136000
+    },
+    {
+        "test_id": "\tid_52\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 18,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 111000
+    },
+    {
+        "test_id": "\tid_53\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 20,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 90000
+    },
+    {
+        "test_id": "\tid_54\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 22,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 72000
+    },
+    {
+        "test_id": "\tid_55\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 24,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 50000
+    },
+    {
+        "test_id": "\tid_56\n\tVeAPI_Pct_PackSOC = 6000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 26",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 26,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_57\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_58\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_59\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_60\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_61\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_62\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_63\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_64\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_65\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_66\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_67\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 21,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 81000
+    },
+    {
+        "test_id": "\tid_68\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 22,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 72000
+    },
+    {
+        "test_id": "\tid_69\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 24,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 50000
+    },
+    {
+        "test_id": "\tid_70\n\tVeAPI_Pct_PackSOC = 8000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 26",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 26,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_71\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 0",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_72\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 2",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_73\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 4",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_74\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 6",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_75\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 8",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_76\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 10",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_77\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 12",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_78\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 14",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_79\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 16",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_80\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 18",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_81\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 20",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_82\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 22",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_83\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 24",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    },
+    {
+        "test_id": "\tid_84\n\tVeAPI_Pct_PackSOC = 10000\n\ts_AFC_Calc.VeAFC_Cnt_PresentStgNum = 26",
+        "s_AFC_Calc.VeAFC_Cnt_PresentStgNum": 25,
+        "s_AFC_Calc.VaAFC_b_ValidSampleFlag": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "s_AFC_Calc.VaAFC_U_SampleCellVolt": [
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200,
+            3200
+        ],
+        "VeAFC_U_ChgPackVolt": 42500,
+        "VeAFC_I_ChgPackCurr": 30000
+    }
+]
